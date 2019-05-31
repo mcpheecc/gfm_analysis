@@ -1,0 +1,9 @@
+URLS to interactive map files:
+
+All Medical Campaigns: https://plot.ly/~mcpheecc/91/heat-test/?fbclid=IwAR17GZaj5kIkdlTAzbNvKcUYVR8oBeFsDj7gtBOM-fO4-a1QCUYFmDLJA_s#/
+(below are all subsections of the medical campaigns)
+All DC/MD/VA Campaigns: https://plot.ly/~mcpheecc/87/test-dmv/?fbclid=IwAR1_VbRTFPtA_laSrZlGQyOG62mhQ5LNrke5tqehi1I9iJjZqsVSTrq0DVw#/
+All Florida Campaigns: https://plot.ly/~mcpheecc/89/test-florida/?fbclid=IwAR05iDCYuuEFSIlDSpuGZD7acDpxjesWNYVs0uETMfjkJwuvy67EZ5F4KiA#/
+All Texas Campaigns: https://plot.ly/~mcpheecc/83/test-texas/?fbclid=IwAR2n5xVGJTWVst2H9LQst8EtHSHTjZXt7B-aeJwu8yRtG4x6rxfJhonidLo#/
+All California Campaigns: https://plot.ly/~mcpheecc/77/test-cal/?fbclid=IwAR1Nct1Hpjl2Ahd5sGqYlZX2TW5L0ZFCMC_A4tdW2GtmXdr90Mycvoplh1E#/
+All New York Campaigns: https://plot.ly/~mcpheecc/93/test-ny/?fbclid=IwAR1_VbRTFPtA_laSrZlGQyOG62mhQ5LNrke5tqehi1I9iJjZqsVSTrq0DVw#/
